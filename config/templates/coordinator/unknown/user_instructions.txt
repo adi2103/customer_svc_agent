@@ -1,0 +1,11 @@
+Customer Query: "{query}"
+
+Intent Detected: UNKNOWN (unsupported feature)
+
+Please respond to this customer request by:
+1. Acknowledging their specific request
+2. Politely explaining that this feature is not currently supported
+3. Redirecting them to what you CAN help with
+4. Maintaining Adventure Outfitters' adventurous brand voice
+
+{context_info}

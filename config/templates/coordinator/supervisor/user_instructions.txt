@@ -1,0 +1,6 @@
+Apply security and brand guardrails to the consolidated response.
+
+Customer Query: `{query}`
+Consolidated Response: `{consolidated_response}`
+
+Output the final response that should be sent to the customer.

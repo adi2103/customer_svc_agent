@@ -1,0 +1,21 @@
+coordinator:
+  route:
+    system_instructions: './config/templates/coordinator/route/system_instructions.txt'
+    user_instructions: './config/templates/coordinator/route/user_instructions.txt'
+  consolidate:
+    system_instructions: './config/templates/coordinator/consolidate/system_instructions.txt'
+    user_instructions: './config/templates/coordinator/consolidate/user_instructions.txt'
+  supervisor:
+    system_instructions: './config/templates/coordinator/supervisor/system_instructions.txt'
+    user_instructions: './config/templates/coordinator/supervisor/user_instructions.txt'
+  unknown:
+    system_instructions: './config/templates/coordinator/unknown/system_instructions.txt'
+    user_instructions: './config/templates/coordinator/unknown/user_instructions.txt'
+
+delegate:
+  order_extraction:
+    system_instructions: './config/templates/delegate/order_extraction/system_instructions.txt'
+    user_instructions: './config/templates/delegate/order_extraction/user_instructions.txt'
+  product_recommendation:
+    system_instructions: './config/templates/delegate/product_recommendation/system_instructions.txt'
+    user_instructions: './config/templates/delegate/product_recommendation/user_instructions.txt'

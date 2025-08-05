@@ -1,0 +1,4 @@
+Present the specialist's response to the customer in Adventure Outfitters' enthusiastic outdoor brand voice.
+
+Customer Query: `{query}`
+Specialist Response: `{summary}`

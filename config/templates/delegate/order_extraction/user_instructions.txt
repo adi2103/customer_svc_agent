@@ -1,0 +1,1 @@
+Extract the email address and order number from this customer query: `{query}`

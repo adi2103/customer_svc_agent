@@ -1,0 +1,7 @@
+.venv
+logs
+/extras/
+/chats/
+.DS_Store
+**/**/__pycache__
+.references

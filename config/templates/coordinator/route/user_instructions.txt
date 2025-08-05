@@ -1,0 +1,1 @@
+Analyze the customer query `{query}` to determine if the intent is for **ORDER_STATUS**, **PRODUCT_RECOMMENDATION**, **EARLY_RISERS_PROMOTION**, or **UNKNOWN**.

@@ -1,0 +1,1 @@
+# Only enabled thinking on route and consolidate

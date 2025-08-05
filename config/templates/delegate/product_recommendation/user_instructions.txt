@@ -1,0 +1,6 @@
+Customer is looking for: `{query}`
+
+Here are the relevant products from our catalog:
+{products}
+
+Please provide personalized recommendations based on their needs.
